@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "com.fixuxt.mirai.whisper"
-version = "0.1.0"
+version = "1.0.0"
 
 repositories {
     maven("https://maven.aliyun.com/repository/public")
