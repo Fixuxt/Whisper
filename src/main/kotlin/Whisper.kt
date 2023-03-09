@@ -8,7 +8,7 @@ object Whisper : KotlinPlugin(
     JvmPluginDescription(
         id = "com.fixuxt.mirai.whisper",
         name = "Whisper",
-        version = "0.1.0",
+        version = "1.0.0",
     ) {
         author("fixuxt")
         info("""通过群发私聊消息来实现群聊功能""")
